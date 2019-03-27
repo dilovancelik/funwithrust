@@ -1,0 +1,11 @@
+[package]
+name = "ReverseString"
+version = "0.1.0"
+authors = ["Dilovan Celik <dilovan.celik@gmail.com>"]
+
+[dependencies]
+unicode_segmentation = "0.1.2"
+
+[[bin]]
+name = "ReverseString"
+path = "ReverseString.rs"
